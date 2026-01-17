@@ -1,2 +1,1 @@
-# magdielrosario97.github.io
-CS-499 Computer Science Capstone ePortfolio
+Welcome to my ePortfolio! Feel free to check back for updates on my capstone progress.
