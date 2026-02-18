@@ -1,6 +1,6 @@
 # Magdiel Rosario Orta
 
-### Software Engineer | Python | Systems Design | Full-Stack Development | Applied Computer Science
+### Software Engineer | Python | Systems Design | Full-Stack Development
 
 U.S. Air Force Veteran and Computer Science graduate focused on building modular, maintainable systems with clear architectural boundaries. My work emphasizes structured design, practical problem solving, and clean implementation.
 
