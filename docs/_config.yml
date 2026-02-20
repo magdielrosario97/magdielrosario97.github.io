@@ -1,12 +1,5 @@
 theme: jekyll-theme-minimal
-title: "Magdiel's Portfolio"
-tagline: "A Software Engineer's Journey"
-description: "An ePortfolio to showcase my projects, skills, and experiences as a software engineer."
-social:
-   name: "Magdiel Rosario Orta"
-   links:
-      - "https://www.linkedin.com/in/msrdev/"
-      - "https://github.com/magdielrosario97"
-      - "https://portfolio-livid-beta-56.vercel.app/"
-plugins:
-   - jekyll-seo-tag
+title: Magdiel Rosario Orta
+tagline: Software Engineer
+description: U.S. Air Force Veteran and systems-oriented software engineer focused on clean architecture, scalability, and maintainable applications.
+github_username: magdielrosario97
