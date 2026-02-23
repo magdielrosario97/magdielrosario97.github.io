@@ -9,6 +9,10 @@ I am a software engineer and U.S. Air Force Veteran who approaches development w
 
 Whether working independently or within a team, I prioritize clear communication, organized execution, and steady improvement. I aim to be an engineer others can rely on, contributing meaningfully while maintaining accountability and long-term quality in every project I collaborate on.
 
+## Featured Sections
+
+[Professional Self-Assessment](./about-me/)
+
 ## Quick Links
 
 [GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
