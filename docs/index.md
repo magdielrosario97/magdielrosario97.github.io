@@ -9,10 +9,16 @@ I am a software engineer and U.S. Air Force Veteran who approaches development w
 
 Whether working independently or within a team, I prioritize clear communication, organized execution, and steady improvement. I aim to be an engineer others can rely on, contributing meaningfully while maintaining accountability and long-term quality in every project I collaborate on.
 
-## Featured Sections
+## Featured Project - Vault 166
+
+Vault 166 is a modular Python application built around a rule-driven game engine and persistent state management system. Originally created as a scripting project, it was redesigned into a structured, multi-module architecture emphasizing separation of concerns, scalable game logic, and database-backed persistence.
+
+The project demonstrates applied software engineering principles through class-based architecture, graph-modeled navigation, rule-based state evaluation, and SQLite persistence using normalized relational modeling.
+
+[Code Review]() · [Architecture]() · [Algorithms]() · [Database]()
+
+## Professional Profile
 
 [Professional Self-Assessment](./about-me/)
-
-## Quick Links
 
 [GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
