@@ -19,9 +19,7 @@ Vault 166 is a modular Python application built around a rule-driven game engine
 
 The project demonstrates applied software engineering principles through class-based architecture, graph-modeled navigation, rule-based state evaluation, and SQLite persistence using normalized relational modeling.
 
-Below are the project's enhancements:
-
-[Code Review]() · [Architecture]() · [Algorithms]() · [Database]()
+[Code Review](https://youtu.be/7GYiDzha6yg) · [Software Design and Engineering](./swe-and-design/) · [Algorithms and Data Structures]() · [Database]()
 
 ## About Me
 
