@@ -4,6 +4,8 @@ title: About Me
 permalink: /about-me/
 ---
 
+## Professional Self-Assessment
+
 My background began in the U.S. Air Force, where I served for over 6 years as an aircraft structures mechanic working hands-on with metals, composites, and coatings. This field required extreme precision, compliance with documentation, following specifications, and craftsmanship accountability. It built an internal system of discipline where one mistake could cause major consequences. If you cut corners, something broke, or worse. That mindset didn't leave me when I changed careers and it followed me into every line of code I've written since.
 
 Moving from physical to logical systems was not an easy transition. Physical systems give you feedback you can see and feel, but logic doesn't always do that. I struggled to grasp software engineering principles and concepts from the beginning, leading me to feel discouraged in following this career path. I attended a full-stack software engineering immersive that allowed me to build my technical knowledge by working on simple, isolated code in early modules. I was focused on just getting things to work. That was enough for a while but as I progressed, I stopped creating code that just worked and shifted towards thinking about what I was building. Looking through my projects since I began coding shows my progression from using starter code on projects to creating my own.
