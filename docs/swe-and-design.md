@@ -6,6 +6,8 @@ permalink: /swe-and-design/
 
 ## Software Design and Engineering
 
+[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-architecture)
+
 ### Artifact Overview
 
 My chosen artifact is Vault 166, a Python-based text adventure survival game originally created as a final project for the IT-140 Introduction to Scripting course around June 2023. The game runs entirely in the command line and allows the player to explore a sealed vault by navigating between rooms, collecting items, and making decisions that determine whether they survive or lose the game. The concept of the game came from my own interest in the Fallout series, which inspired the setting and narrative direction of the project. The original implementation was created to meet the project requirements by designing a complete and playable experience that focused on exploration, item collection, and simple game logic.
