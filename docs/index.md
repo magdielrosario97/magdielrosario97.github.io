@@ -11,7 +11,7 @@ Whether working independently or within a team, I prioritize clear communication
 
 [GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
 
-## Featured Project
+## Featured Projects
 
 ### Vault 166
 
@@ -20,6 +20,14 @@ Vault 166 is a modular Python application built around a rule-driven game engine
 The project demonstrates applied software engineering principles through class-based architecture, graph-modeled navigation, rule-based state evaluation, and SQLite persistence using normalized relational modeling.
 
 [Original Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-original) · [Code Review](https://youtu.be/7GYiDzha6yg) · [Software Design and Engineering](./swe-and-design/) · [Algorithms and Data Structures](./algorithms/) · [Database](./databases/) · [Latest Source Code](https://github.com/magdielrosario97/vault166)
+
+### Android Inventory App
+
+Inventory App is an offline-first Android application built to manage inventory items, track stock levels, and provide optional SMS-based low-stock alerts. The project focuses on practical usability, local persistence with SQLite, and a clean grid-based interface designed for quick navigation.
+
+Built using Java and Android Studio, the app implements full CRUD functionality through DAO patterns and lifecycle-aware updates to maintain consistent state across screens.
+
+[View Source Code](https://github.com/magdielrosario97/android-inventory-app)
 
 ## About Me
 
