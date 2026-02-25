@@ -8,9 +8,7 @@ permalink: /swe-and-design/
 
 ### Repository and Documentation
 
-[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-architecture)
-
-[Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/ARCHITECTURE.md)
+[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-architecture) · [Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/ARCHITECTURE.md)
 
 ### Artifact Overview
 
