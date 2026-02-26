@@ -9,7 +9,7 @@ I am a software engineer and U.S. Air Force Veteran who approaches development w
 
 Whether working independently or within a team, I prioritize clear communication, organized execution, and steady improvement. I aim to be an engineer others can rely on, contributing meaningfully while maintaining accountability and long-term quality in every project I collaborate on.
 
-[GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
+[Professional Self-Assessment](./about-me/) · [GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
 
 ## Featured Projects
 
@@ -28,9 +28,3 @@ Inventory App is an offline-first Android application built to manage inventory 
 Built using Java and Android Studio, the app implements full CRUD functionality through DAO patterns and lifecycle-aware updates to maintain consistent state across screens.
 
 [View Source Code](https://github.com/magdielrosario97/android-inventory-app)
-
-## About Me
-
-A brief overview of my background, development experience, and professional direction.
-
-[Professional Self-Assessment](./about-me/)
