@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Magdiel Rosario Orta
 ---
 
 ## Welcome
