@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Algorithms and Data Structures
+title: Magdiel Rosario Orta
 permalink: /algorithms/
 ---
 

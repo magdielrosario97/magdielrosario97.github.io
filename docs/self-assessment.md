@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Professional Self-Assessment
+title: Magdiel Rosario Orta
 permalink: /self-assessment/
 ---
 

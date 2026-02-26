@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Database
+title: Magdiel Rosario Orta
 permalink: /databases/
 ---
 

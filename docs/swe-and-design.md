@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Software Design and Engineering
+title: Magdiel Rosario Orta
 permalink: /swe-and-design/
 ---
 
