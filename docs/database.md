@@ -10,7 +10,11 @@ permalink: /databases/
 
 ### Repository and Documentation
 
-[Original Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-original) · [Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-database) · [Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/DATABASE.md)
+[Original Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-original)
+
+[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-database)
+
+[Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/DATABASE.md)
 
 ### Artifact Overview
 
