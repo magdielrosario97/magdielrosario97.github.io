@@ -4,11 +4,13 @@ title: Algorithms and Data Structures
 permalink: /algorithms/
 ---
 
+[Home](/) · [Professional Self-Assessment](/self-assessment/) · [Code Review](https://youtu.be/7GYiDzha6yg) · [Software Design and Engineering](/swe-and-design/) · **[Algorithms and Data Structures](/algorithms/)** · [Database](/databases/)
+
 ## Algorithms and Data Structures
 
 ### Repository and Documentation
 
-[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-algorithms) · [Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/ALGORITHM.md)
+[Original Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-original) · [Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-algorithms) · [Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/ALGORITHM.md)
 
 ### Artifact Overview
 

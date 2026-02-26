@@ -9,7 +9,7 @@ I am a software engineer and U.S. Air Force Veteran who approaches development w
 
 Whether working independently or within a team, I prioritize clear communication, organized execution, and steady improvement. I aim to be an engineer others can rely on, contributing meaningfully while maintaining accountability and long-term quality in every project I collaborate on.
 
-[Professional Self-Assessment](./about-me/) · [GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
+[Professional Self-Assessment](/self-assessment/) · [GitHub](https://github.com/magdielrosario97) · [LinkedIn](https://www.linkedin.com/in/msrdev) · [Portfolio](https://portfolio-livid-beta-56.vercel.app/)
 
 ## Featured Projects
 
@@ -19,7 +19,7 @@ Vault 166 is a modular Python application built around a rule-driven game engine
 
 The project demonstrates applied software engineering principles through class-based architecture, graph-modeled navigation, rule-based state evaluation, and SQLite persistence using normalized relational modeling.
 
-[Original Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-original) · [Code Review](https://youtu.be/7GYiDzha6yg) · [Software Design and Engineering](./swe-and-design/) · [Algorithms and Data Structures](./algorithms/) · [Database](./databases/) · [Latest Source Code](https://github.com/magdielrosario97/vault166)
+[Original Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-original) · [Code Review](https://youtu.be/7GYiDzha6yg) · [Software Design and Engineering](/swe-and-design/) · [Algorithms and Data Structures](/algorithms/) · [Database](/databases/) · [Latest Source Code](https://github.com/magdielrosario97/vault166)
 
 ### Android Inventory App
 

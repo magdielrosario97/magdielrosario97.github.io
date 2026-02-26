@@ -1,8 +1,10 @@
 ---
 layout: default
-title: About Me
-permalink: /about-me/
+title: Professional Self-Assessment
+permalink: /self-assessment/
 ---
+
+[Home](/) · **[Professional Self-Assessment](/self-assessment/)** · [Code Review](https://youtu.be/7GYiDzha6yg) · [Software Design and Engineering](/swe-and-design/) · [Algorithms and Data Structures](/algorithms/) · [Database](/databases/)
 
 ## Professional Self-Assessment
 
