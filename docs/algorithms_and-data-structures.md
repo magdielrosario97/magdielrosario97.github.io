@@ -6,7 +6,9 @@ permalink: /algorithms/
 
 ## Algorithms and Data Structures
 
-[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-algorithms)
+### Repository and Documentation
+
+[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-algorithms) · [Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/ALGORITHM.md)
 
 ### Artifact Overview
 

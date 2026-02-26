@@ -6,7 +6,9 @@ permalink: /databases/
 
 ## Database
 
-[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-database)
+### Repository and Documentation
+
+[Enhancement Source Code](https://github.com/magdielrosario97/vault166/tree/vault166-database) · [Technical Documentation](https://github.com/magdielrosario97/vault166/blob/main/docs/DATABASE.md)
 
 ### Artifact Overview
 
